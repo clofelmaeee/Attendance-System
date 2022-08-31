@@ -1,5 +1,5 @@
 # Attendance-System
-This is a simple PPC (Parish Pastoral Council) Meeting Attendance System. It's purpose is to cut down your paperwork at the parish during meetings in terms of attendance. This will also help store a lot of attenddees. 
+This is a simple PPC (Parish Pastoral Council) Meeting Attendance System. It's purpose is to cut down the paperwork at the parish during meetings in terms of attendance. This will also help store a lot of attenddees and is easy to use.
 This system served as a school project.
 
 The following are the functionalities of the system.
