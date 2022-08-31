@@ -1,5 +1,6 @@
 # Attendance-System
-This is a simple attendance system. It's purpose is to cut down your paperwork in terms of attendance. This system served as a school project.
+This is a simple PPC (Parish Pastoral Council) Meeting Attendance System. It's purpose is to cut down your paperwork at the parish during meetings in terms of attendance. This will also help store a lot of attenddees. 
+This system served as a school project.
 
 The following are the functionalities of the system.
   - You can add attendee, just click the add button, the icon is a plus sign, located at the lower right if you're facing your computer.
@@ -12,6 +13,6 @@ The following are the functionalities of the system.
   - Has a sidebar where you can view the lomas and clusters.
   
   
-  Built by: Clofel Mae Campugan
+  Built by: Clofel Mae Campugan and
             Humphrey Singculan
   
