@@ -1,6 +1,6 @@
 # Attendance-System
 This is a simple PPC (Parish Pastoral Council) Meeting Attendance System. The purpose of this system is to cut down the paperwork at the parish during meetings in terms of attendance. This will also help store a lot of attendees and is easy to use.
-This system served as a school project. This is developed using PHP for backend, MySQL for the database
+This system served as a school project. This is developed using HTML and CSS for frontend, PHP for backend, MySQL for the database
 
 The following are the functionalities of the system.
   - You can add attendees.
